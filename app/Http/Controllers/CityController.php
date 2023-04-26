@@ -16,9 +16,6 @@ class CityController extends Controller
 
         //return response()->json($cities);
     }
-
-    
-
     public function dataProduct(request $request){
         $data = [];
 
